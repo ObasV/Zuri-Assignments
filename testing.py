@@ -1,0 +1,1 @@
+var = "He is a good man"
